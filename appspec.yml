@@ -24,3 +24,4 @@ hooks:
   ApplicationStart:
     - location: scripts/start.sh   
       timeout: 60  
+      
