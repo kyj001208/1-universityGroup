@@ -24,7 +24,7 @@
 - **데이터 불러오기**: 별도의 DB에서 메인화면 데이터 값 불러오기
 
 ## 기술 스택
-- **프론트엔드**: HTML, CSS, JavaScript
+- **프론트엔드**: HTML, CSS, JavaScript, Ajax
 - **백엔드**: Java, JPA
 - **데이터베이스**: MariaDB
 - **기타**: 네이버 웍스 API, Open API
